@@ -1,0 +1,3 @@
+C:/Users/jawwa/ese224/tempproject/cmake-build-debug/CMakeFiles/tempproject.dir
+C:/Users/jawwa/ese224/tempproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jawwa/ese224/tempproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

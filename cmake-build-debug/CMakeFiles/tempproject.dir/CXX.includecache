@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jawwa/ese224/tempproject/book.h
+iostream
+-
+ctime
+-
+
+C:/Users/jawwa/ese224/tempproject/main.cpp
+iostream
+-
+student.h
+C:/Users/jawwa/ese224/tempproject/student.h
+
+C:/Users/jawwa/ese224/tempproject/student.h
+vector
+-
+book.h
+C:/Users/jawwa/ese224/tempproject/book.h
+
